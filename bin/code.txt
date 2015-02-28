@@ -1,0 +1,11 @@
+LET x = 2
+LET y = 3
+Print z
+Print y
+Print x
+x = x + y + y
+x = x + x + x * y / x
+Print x
+x = x * x * x
+Print x
+0 = x
